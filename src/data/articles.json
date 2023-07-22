@@ -1,0 +1,880 @@
+[
+  {
+      "_id": "YRUHC2EOFJEDFEAZU7A2BO64JI",
+      "additional_properties": {},
+      "canonical_url": "/environnement/leurope-sest-rechauffee-denviron-23-degres-depuis-la-periode-1850-1900-selon-lonu-19-06-2023-YRUHC2EOFJEDFEAZU7A2BO64JI.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Le Parisien",
+                  "name": "Le Parisien",
+                  "type": "author"
+              }
+          ]
+      },
+      "display_date": "2023-06-19T11:02:45Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T10:51:24Z",
+      "headlines": {
+          "basic": "L'Europe s'est réchauffée d'environ 2,3 degrés depuis la période 1850-1900, selon l'ONU"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "La température a grimpé deux fois plus vite que la moyenne mondiale en Europe depuis l'ère pré-industrielle. Arnaud Le Vu / Hans Lucas via AFP",
+              "height": 1867,
+              "type": "image",
+              "url": "/PF2ITS6CCZA4NGDAINXGDOCIJM-min.jpg",
+              "width": 2800
+          }
+      },
+      "publish_date": "2023-06-19T11:02:45Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "L'Europe est la région du monde qui se réchauffe le plus rapidement, alertent les Nations unies."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/environnement",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/environnement/leurope-sest-rechauffee-denviron-23-degres-depuis-la-periode-1850-1900-selon-lonu-19-06-2023-YRUHC2EOFJEDFEAZU7A2BO64JI.php"
+  },
+  {
+      "_id": "ZJCOV6IVLJGGDH3HTCQGSHKDNU",
+      "additional_properties": {},
+      "canonical_url": "/faits-divers/jai-pense-au-suicide-le-calvaire-de-virginie-dont-lidentite-a-ete-usurpee-pour-acheter-un-immeuble-19-06-2023-ZJCOV6IVLJGGDH3HTCQGSHKDNU.php",
+      "content_restrictions": {
+          "content_code": "hard-paywall"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "C Pit",
+                  "name": "C Pit",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T04:02:00Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T04:02:00Z",
+      "headlines": {
+          "basic": " « J'ai pensé au suicide » : le calvaire de Virginie, dont l'identité a été usurpée pour acheter un immeuble"
+      },
+      "label": {
+          "format": {
+              "text": "Récit",
+              "url": "/recit"
+          },
+          "profil": {
+              "text": "ABO"
+          }
+      },
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Paris, juin 2023. Virginie Rosselot, 38 ans, a été victime d'un réseau d'escrocs. Sa carte d'identité perdue a été interceptée par des malfaiteurs qui ont contracté un prêt immobilier en son nom. LP/C.P.",
+              "height": 3024,
+              "type": "image",
+              "url": "/PCD5VQY5EJD6PBYFIO5IE6W7XQ-min.jpg",
+              "width": 4032
+          }
+      },
+      "publish_date": "2023-06-19T04:02:00Z",
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Victime d'un réseau d'escrocs, qui a acheté en 2016 un immeuble à Pantin (Seine-Saint-Denis) en usurpant son identité, cette secrétaire médicale vit depuis dans une grande précarité. Poursuivie par le fisc, qui saisit ses moindres émoluments, la trentenaire n'est plus en capacité de se loger."
+      },
+      "subtype": "article_large_format_bicolor",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/faits-divers",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/faits-divers/jai-pense-au-suicide-le-calvaire-de-virginie-dont-lidentite-a-ete-usurpee-pour-acheter-un-immeuble-19-06-2023-ZJCOV6IVLJGGDH3HTCQGSHKDNU.php"
+  },
+  {
+      "_id": "3WF5K62SQ5DALK3FJ5PJVAB254",
+      "additional_properties": {},
+      "canonical_url": "/meteo/orages-15-departements-places-en-vigilance-orange-19-06-2023-3WF5K62SQ5DALK3FJ5PJVAB254.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Le Parisien",
+                  "name": "Le Parisien",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T09:17:07Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T08:40:48Z",
+      "headlines": {
+          "basic": "Orages : 15 départements placés en vigilance orange"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Prudence ce lundi après-midi face à la survenue de nouveaux épisodes orageux. LP/Yann Foreix",
+              "height": 2438,
+              "type": "image",
+              "url": "/QH4VHFHHOBF65KDT35G3EYS7LE-min.jpg",
+              "width": 3250
+          }
+      },
+      "publish_date": "2023-06-19T10:29:05Z",
+      "related_stories": [
+          {
+              "_id": "4FB3D25LQFB6HGJCNMFGD7I2ZQ",
+              "content_restrictions": {
+                  "content_code": "metered"
+              },
+              "headlines": {
+                  "basic": "Paris, Orléans, Le Mans… les images des violents orages qui frappent la France"
+              },
+              "label": {},
+              "subtype": "ART:",
+              "taxonomy": {
+                  "primary_section": {
+                      "_id": "/meteo",
+                      "additional_properties": {
+                          "original": {
+                              "site": {
+                                  "paywall_deactivated": "false"
+                              }
+                          }
+                      }
+                  }
+              },
+              "website_url": "/meteo/paris-orleans-le-mans-les-images-des-violents-orages-qui-frappent-la-france-18-06-2023-4FB3D25LQFB6HGJCNMFGD7I2ZQ.php"
+          },
+          {
+              "_id": "VL63GVJWB5GYFKEBE5MZVRX3I4",
+              "content_restrictions": {
+                  "content_code": "metered"
+              },
+              "headlines": {
+                  "basic": "Météo : retour des orages, pluie, inondations… à quoi s'attendre ce lundi ?"
+              },
+              "label": {},
+              "subtype": "ART:",
+              "taxonomy": {
+                  "primary_section": {
+                      "_id": "/meteo",
+                      "additional_properties": {
+                          "original": {
+                              "site": {
+                                  "paywall_deactivated": "false"
+                              }
+                          }
+                      }
+                  }
+              },
+              "website_url": "/meteo/orages-vigilance-orange-pluie-inondations-a-quoi-sattendre-ce-lundi-19-06-2023-VL63GVJWB5GYFKEBE5MZVRX3I4.php"
+          }
+      ],
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Il s'agit d'une ligne allant du Poitou-Charentes au Centre qui devrait gagner ensuite la Bourgogne et la Champagne."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/meteo",
+              "additional_properties": {
+                  "original": {
+                      "site": {
+                          "paywall_deactivated": "false"
+                      }
+                  }
+              }
+          }
+      },
+      "website_url": "/meteo/orages-15-departements-places-en-vigilance-orange-19-06-2023-3WF5K62SQ5DALK3FJ5PJVAB254.php"
+  },
+  {
+      "_id": "BDFBTAQR7FBBDIHPSGG6JYCNMI",
+      "additional_properties": {},
+      "canonical_url": "/environnement/secheresse-avec-la-pluie-et-les-orages-la-situation-sameliore-t-elle-en-france-18-06-2023-BDFBTAQR7FBBDIHPSGG6JYCNMI.php",
+      "content_restrictions": {
+          "content_code": "hard-paywall"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Luci",
+                  "name": "Luci",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T05:32:28Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-18T16:09:11Z",
+      "headlines": {
+          "basic": "Sécheresse : avec les orages et la pluie, la situation s'améliore-t-elle en France ?"
+      },
+      "label": {
+          "format": {
+              "text": "Décryptage",
+              "url": "/decryptage"
+          },
+          "profil": {
+              "text": "ABO"
+          }
+      },
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Après un hiver extrêmement sec, de nombreux cours d'eau ont vu leur niveau baisser, comme ici dans le Var. Les précipitations des dernières semaines ne règlent pas tout. LP/Olivier Corsan",
+              "height": 3335,
+              "type": "image",
+              "url": "/WWZOHIY5MRBLBMJ5I6FK7C55KY-min.jpg",
+              "width": 5000
+          }
+      },
+      "publish_date": "2023-06-19T05:32:28Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Depuis la mi-mai, des orages réguliers touchent le sud de la France. Après des semaines sans pluie, c'est la moitié nord qui connaît des précipitations ce dimanche. Mais c'est loin d'être suffisant pour inverser la tendance entamée au début d'année."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/environnement",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/environnement/secheresse-avec-la-pluie-et-les-orages-la-situation-sameliore-t-elle-en-france-18-06-2023-BDFBTAQR7FBBDIHPSGG6JYCNMI.php"
+  },
+  {
+      "_id": "T3HQ24PBIBD6RLKOI3MIMUN4SM",
+      "additional_properties": {},
+      "canonical_url": "/international/taiwan-rivalite-commerciale-la-rencontre-sous-tension-entre-antony-blinken-et-xi-jinping-19-06-2023-T3HQ24PBIBD6RLKOI3MIMUN4SM.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Le Parisien avec AFP",
+                  "name": "Le Parisien avec AFP",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T09:56:40Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T09:56:40Z",
+      "headlines": {
+          "basic": "Taïwan, rivalité commerciale… La rencontre sous tension entre Antony Blinken et Xi Jinping"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Le président chinois Xi Jinping a indiqué lundi que des \"terrains d'entente\" avec Washington ont été trouvés lors d'un rare entretien avec le secrétaire d'Etat américain Antony Blinken à Pékin, ce lundi 19 juin. Leah MILLIS/POOL/AFP",
+              "height": 1867,
+              "type": "image",
+              "url": "/GGJU4Q74Z5HVZLE4DRK3GRCTVY-min.jpg",
+              "width": 2800
+          }
+      },
+      "publish_date": "2023-06-19T09:56:40Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Le secrétaire d'État américain, actuellement en Chine, a débuté lundi son entretien à Pékin avec le président chinois. Une première en près de cinq ans."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/international",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/international/taiwan-rivalite-commerciale-la-rencontre-sous-tension-entre-antony-blinken-et-xi-jinping-19-06-2023-T3HQ24PBIBD6RLKOI3MIMUN4SM.php"
+  },
+  {
+      "_id": "4Y6OEXOO3ZCTTMNJNKPFYPTQJA",
+      "additional_properties": {},
+      "canonical_url": "/faits-divers/un-quatuor-dultra-droite-raciste-antisemite-et-supremaciste-devant-la-cour-dassises-speciale-de-paris-19-06-2023-4Y6OEXOO3ZCTTMNJNKPFYPTQJA.php",
+      "content_restrictions": {
+          "content_code": "hard-paywall"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Timothée Boutry",
+                  "name": "Timothée  Boutry",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T04:30:22Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T04:30:22Z",
+      "headlines": {
+          "basic": "Un quatuor d'ultra-droite raciste, antisémite et suprémaciste devant la Cour d'assises spéciale de Paris"
+      },
+      "label": {
+          "profil": {
+              "text": "ABO"
+          }
+      },
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Aux yeux des juges d'instruction, l'acquisition d'armes, la recherche de cibles, l'organisation d'entraînement au tir, la constitution d'une cellule clandestine attestent du désir de passage à l'acte de ce quatuor. Anne-Gaëlle Amiot pour Le Parisien",
+              "height": 593,
+              "type": "image",
+              "url": "/D3U45OMSXBFVLE7J7RCDTYDJ4A-min.jpg",
+              "width": 949
+          }
+      },
+      "publish_date": "2023-06-19T04:30:22Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Les quatre accusés, dont un ancien militaire, échangeaient sur le forum Waffenkraft (puissance de feu) créé par l'un d'entre eux. Abreuvés de textes violents, ils avaient participé à une séance de tir en forêt et avaient envisagé des cibles."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/faits-divers",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/faits-divers/un-quatuor-dultra-droite-raciste-antisemite-et-supremaciste-devant-la-cour-dassises-speciale-de-paris-19-06-2023-4Y6OEXOO3ZCTTMNJNKPFYPTQJA.php"
+  },
+  {
+      "_id": "OTX2X2LLRJCRJGD65VYZGAGNK4",
+      "additional_properties": {},
+      "canonical_url": "/societe/pret-a-vivre-sur-une-ile-au-decor-de-cinema-lirlande-vous-offre-85-000-euros-pour-vous-installer-19-06-2023-OTX2X2LLRJCRJGD65VYZGAGNK4.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Visin",
+                  "name": "Visin",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T10:44:30Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T10:44:30Z",
+      "headlines": {
+          "basic": "Prêt à vivre sur une île au décor de cinéma ? L'Irlande vous offre 85 000 euros pour vous installer"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Inis Mór, une des îles concernées par la mesure, a accueilli le tournage du film «Les Banshees d'Inisherin». ©20th Century Studios.",
+              "height": 1576,
+              "type": "image",
+              "url": "/W7MEQ5EFVVFWLBH3ZLR3BUYTOU-min.jpg",
+              "width": 2800
+          }
+      },
+      "publish_date": "2023-06-19T10:44:30Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Dans son plan pour redynamiser ses petites îles, le gouvernement irlandais propose une jolie somme aux volontaires souhaitant s'y installer. Mais attention, il y a quelques conditions à respecter."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/societe",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/societe/pret-a-vivre-sur-une-ile-au-decor-de-cinema-lirlande-vous-offre-85-000-euros-pour-vous-installer-19-06-2023-OTX2X2LLRJCRJGD65VYZGAGNK4.php"
+  },
+  {
+      "_id": "TUPZWWUOIZCBTJBODZLS5QREPI",
+      "additional_properties": {},
+      "canonical_url": "/culture-loisirs/musique/fete-de-la-musique-ibrahim-maalouf-yasmine-hadj-ali-et-dj-linda-se-produiront-a-lelysee-mercredi-19-06-2023-TUPZWWUOIZCBTJBODZLS5QREPI.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Le Parisien",
+                  "name": "Le Parisien",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T10:19:55Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T10:19:55Z",
+      "headlines": {
+          "basic": "Fête de la musique : Ibrahim Maalouf, Yasmine Hadj-Ali et DJ Linda se produiront à l'Élysée mercredi"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Le musicien franco-libanais, Ibrahim Maalouf se produira dans la cour de l'Elysée, mercredi, lors de la fête de la musique. XAVIER LEOTY / AFP",
+              "height": 1866,
+              "type": "image",
+              "url": "/JHJSTI377VFQ7ANQ2H7UQR26DA-min.jpg",
+              "width": 2800
+          }
+      },
+      "publish_date": "2023-06-19T10:19:55Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Les 2000 billets proposés par l'Élysée ce lundi matin pour assister à l'événement ont déjà tous été réservés."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/culture-loisirs/musique",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/culture-loisirs/musique/fete-de-la-musique-ibrahim-maalouf-yasmine-hadj-ali-et-dj-linda-se-produiront-a-lelysee-mercredi-19-06-2023-TUPZWWUOIZCBTJBODZLS5QREPI.php"
+  },
+  {
+      "_id": "3IHRBHXEWRDABMM67HN7VZMIEQ",
+      "additional_properties": {},
+      "canonical_url": "/politique/discussions-sur-whatsapp-ou-telegram-la-republique-en-boucles-a-lassemblee-nationale-19-06-2023-3IHRBHXEWRDABMM67HN7VZMIEQ.php",
+      "content_restrictions": {
+          "content_code": "hard-paywall"
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T05:16:56Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T05:16:56Z",
+      "headlines": {
+          "basic": "Discussions sur WhatsApp ou Telegram… la République en boucles à l'Assemblée nationale"
+      },
+      "label": {
+          "profil": {
+              "text": "ABO"
+          }
+      },
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Les députés de l'Assemblée nationale (ici le groupe RN) discutent sur des fils WhatsApp dédiés des textes à voter et du discours à tenir. LP/Frédéric Dugit",
+              "height": 3333,
+              "type": "image",
+              "url": "/X77QJ3J2IVDVDITJBD7D5JWC64-min.jpg",
+              "width": 5000
+          }
+      },
+      "publish_date": "2023-06-19T05:16:56Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Stratégiques, confidentiels, ou tout simplement conviviaux, les fils de messagerie ont envahi la vie politique. Quel que soit leur parti, les députés croulent sous les notifications. Plongée dans les groupes de discussion secrets du parlement."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/politique",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/politique/discussions-sur-whatsapp-ou-telegram-la-republique-en-boucles-a-lassemblee-nationale-19-06-2023-3IHRBHXEWRDABMM67HN7VZMIEQ.php"
+  },
+  {
+      "_id": "4N3G7MRHY5D4DHOKO6FNQWPZII",
+      "additional_properties": {},
+      "canonical_url": "/culture-loisirs/series/lupin-netflix-devoile-les-premieres-images-de-la-saison-3-de-la-serie-avec-omar-sy-19-06-2023-4N3G7MRHY5D4DHOKO6FNQWPZII.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Cousin",
+                  "name": "Cousin",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T08:51:27Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T08:51:27Z",
+      "headlines": {
+          "basic": "« Lupin » : Netflix dévoile les premières images de la saison 3 de la série avec Omar Sy"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Netflix a dévoilé les premières images de la saison 3 d'Arsène Lupin avec Omar Sy. Netflix",
+              "height": 1867,
+              "type": "image",
+              "url": "/QDMGLPG7ZJFEJAXHP45AWXV6GE-min.jpg",
+              "width": 2800
+          }
+      },
+      "publish_date": "2023-06-19T08:51:27Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "La saison 3 de « Lupin » sortira le 5 octobre prochain sur Netflix. Avant l'automne, la plateforme américaine a dévoilé quelques images de la série à succès avec Omar Sy en personnage principal."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/culture-loisirs/series",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/culture-loisirs/series/lupin-netflix-devoile-les-premieres-images-de-la-saison-3-de-la-serie-avec-omar-sy-19-06-2023-4N3G7MRHY5D4DHOKO6FNQWPZII.php"
+  },
+  {
+      "_id": "TILCPLZ7VNDWDPKUATGHFRV34Y",
+      "additional_properties": {},
+      "canonical_url": "/jo-paris-2024/football/antoine-griezmann-veut-participer-aux-jo-de-paris-je-mettrai-une-pression-extraordinaire-sur-mon-club-pour-les-faire-18-06-2023-TILCPLZ7VNDWDPKUATGHFRV34Y.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Coralie",
+                  "name": "Coralie",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T09:10:32Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-18T16:05:03Z",
+      "headlines": {
+          "basic": "Antoine Griezmann veut participer aux JO de Paris : « Je mettrai une pression extraordinaire sur mon club pour les faire »"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Antoine Griezmann a expliqué qu'il voulait continuer son aventure en équipe de France « le plus longtemps possible. » AFP/Franck Fife",
+              "height": 1832,
+              "type": "image",
+              "url": "/3KAYJGULKRDA5JIV2JVSKNEK64-min.jpg",
+              "width": 2800
+          },
+          "lead_art_dailymotion": {
+              "subtype": "video_dm",
+              "type": "custom_embed"
+          }
+      },
+      "publish_date": "2023-06-19T10:44:01Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Avant de jouer face à la Grèce lundi, pour les éliminatoires de l'Euro, Antoine Griezmann s'est rendu en conférence de presse et a réitéré son souhait de faire les Jeux olympiques 2024 à Paris."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/jo-paris-2024/football",
+              "additional_properties": {
+                  "original": {
+                      "site": {
+                          "paywall_deactivated": "false"
+                      }
+                  }
+              }
+          }
+      },
+      "website_url": "/jo-paris-2024/football/antoine-griezmann-veut-participer-aux-jo-de-paris-je-mettrai-une-pression-extraordinaire-sur-mon-club-pour-les-faire-18-06-2023-TILCPLZ7VNDWDPKUATGHFRV34Y.php"
+  },
+  {
+      "_id": "UDE7DA375NDERMX6WVHOE4KV6U",
+      "additional_properties": {},
+      "canonical_url": "/economie/marylise-leon-succede-a-laurent-berger-la-cfdt-change-de-tete-mais-pas-de-ligne-19-06-2023-UDE7DA375NDERMX6WVHOE4KV6U.php",
+      "content_restrictions": {
+          "content_code": "hard-paywall"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Catherine",
+                  "name": "Catherine",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T03:57:41Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T03:57:41Z",
+      "headlines": {
+          "basic": "Marylise Léon succède à Laurent Berger : la CFDT change de tête… mais pas de ligne"
+      },
+      "label": {
+          "format": {
+              "text": "Portrait",
+              "url": "/portrait"
+          },
+          "profil": {
+              "text": "ABO"
+          }
+      },
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "« C'est une coriace et une CFDT pur jus », dit d'elle Laurent Berger, son mentor, qui laissera la place à Marylise Léon, mercredi, après onze ans à la tête de la CFDT (ici les deux lors du défilé du 1er mai à Paris). LP/Arnaud Journois",
+              "height": 2075,
+              "type": "image",
+              "url": "/MWNSNCTY65DNBHPR6H7STWDTC4-min.jpg",
+              "width": 2767
+          }
+      },
+      "publish_date": "2023-06-19T03:57:41Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "À 46 ans, l'actuelle secrétaire générale adjointe s'apprête à diriger, à partir de mercredi, le premier syndicat français. Laurent Berger passe la main, auréolé par la conduite de la bataille contre la réforme des retraites."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/economie",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/economie/marylise-leon-succede-a-laurent-berger-la-cfdt-change-de-tete-mais-pas-de-ligne-19-06-2023-UDE7DA375NDERMX6WVHOE4KV6U.php"
+  },
+  {
+      "_id": "5R4EPGS4WJGGXNDELGJIUUKUMQ",
+      "additional_properties": {},
+      "canonical_url": "/faits-divers/viande-drogue-et-sex-toys-les-surprenants-colis-recus-par-un-detenu-de-lisere-19-06-2023-5R4EPGS4WJGGXNDELGJIUUKUMQ.php",
+      "content_restrictions": {
+          "content_code": "metered"
+      },
+      "credits": {
+          "by": [
+              {
+                  "display_name": "Le Parisien",
+                  "name": "Le Parisien",
+                  "type": "author"
+              }
+          ]
+      },
+      "description": {
+          "basic": ""
+      },
+      "display_date": "2023-06-19T09:02:16Z",
+      "distributor": {
+          "name": "leparisien"
+      },
+      "first_publish_date": "2023-06-19T09:02:16Z",
+      "headlines": {
+          "basic": "Viande, drogue et sex-toys : les surprenants colis reçus par un détenu de l'Isère"
+      },
+      "label": {},
+      "promo_items": {
+          "basic": {
+              "additional_properties": {},
+              "caption": "Dès son arrivée, l'homme a pris en grippe trois surveillants et la directrice de détention. (Illustration) LP/Jean Nicholas Guillo",
+              "height": 853,
+              "type": "image",
+              "url": "/CWTVE5KYF7AHDJPANOKKRNDJFA-min.jpg",
+              "width": 1280
+          }
+      },
+      "publish_date": "2023-06-19T09:02:16Z",
+      "related_content": {
+          "basic": []
+      },
+      "source": {
+          "name": "leparisien",
+          "system": "composer"
+      },
+      "subheadlines": {
+          "basic": "Le détenu, bien connu de la justice et de l'administration pénitentiaire, sera jugé en juillet entre autres pour outrage menaces de mort et exhibition sexuelle."
+      },
+      "subtype": "ART:",
+      "taxonomy": {
+          "primary_section": {
+              "_id": "/faits-divers",
+              "additional_properties": {
+                  "original": {
+                      "site": {}
+                  }
+              }
+          }
+      },
+      "website_url": "/faits-divers/viande-drogue-et-sex-toys-les-surprenants-colis-recus-par-un-detenu-de-lisere-19-06-2023-5R4EPGS4WJGGXNDELGJIUUKUMQ.php"
+  }
+]
